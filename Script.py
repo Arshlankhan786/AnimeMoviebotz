@@ -202,7 +202,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
- {file_name}
+ @Movies_vala_Family {file_name}
 
 ⚙️ sɪᴢᴇ : {file_size}"""
 
